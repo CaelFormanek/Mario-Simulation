@@ -1,10 +1,6 @@
-1) The following is identifying information:
+1) Name:
 
-a. Cael Formanek
-b. 2416167
-c. cformanek@chapman.edu
-d. CPSC 350 - 03
-e. PA2: Not So Super Mario Bros.
+Cael Formanek
 
 2) All files being submitted:
 
